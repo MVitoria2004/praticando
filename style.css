@@ -1,0 +1,43 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+  section{
+    display: flex;
+    flex-wrap:wrap;
+    border:solid;
+    height: 98vh;
+  }
+  div{
+    border:solid;
+    height: 180px;
+    width: 220px;
+  }
+  .Amarela{
+    background-color: yellow;
+  }
+  .Vermelho{
+    background-color: red;
+  }
+    .Azul{
+        background-color: blue;
+    }
+    .Roxo{
+        background-color: purple;
+    }
+    .Laranja{
+        background-color: orange;
+    }
+    .Rosa{
+        background-color: pink;
+    }
+    .Verde{
+        background-color: green;
+    }
+   .Preto{
+    background-color: black;
+}
+   .Marrom{
+    background-color: brown;
+}
